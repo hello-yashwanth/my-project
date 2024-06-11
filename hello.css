@@ -1871,7 +1871,7 @@ padding-left: 63vh;
   top: 150vh;
   left: 0;
 }
-@media  only screen and { max-width: 410; max-height: 781;} {
+@media  only screen and { max-width: 800; max-height: 800;} {
   .h7{
     height: 70vh;
     width: 70vh;
